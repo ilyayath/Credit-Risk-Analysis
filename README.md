@@ -1,5 +1,3 @@
-Credit Risk Analysis
-
 ## Project Overview
 
 This project presents a comprehensive Exploratory Data Analysis (EDA) of the **UCI Credit Card Default Dataset**. The primary goal is to identify the key factors and behavioral patterns that are strong predictors of credit default. By analyzing demographic data, financial history, and payment behavior, this project simulates the work of a data analyst aiming to provide actionable insights for risk management in a financial institution.
