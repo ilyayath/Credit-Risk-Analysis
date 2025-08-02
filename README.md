@@ -73,6 +73,6 @@ This project reflects a real-world analytical workflow — from data exploration
 
 *This is a personal learning project aimed at practicing data analysis skills.*
 
-<a href="[https://docs.google.com/spreadsheets/d/ID_ТВОГО_ФАЙЛУ](https://docs.google.com/spreadsheets/d/1hw0Hc1at1As9ak680XT4Z10BMpS-HcAxHmTBEltydpY/edit?usp=sharing)" target="_blank">
+<a href="https://docs.google.com/spreadsheets/d/1hw0Hc1at1As9ak680XT4Z10BMpS-HcAxHmTBEltydpY/edit?usp=sharing" target="_blank">
   📊 Відкрити дашборд
 </a>
